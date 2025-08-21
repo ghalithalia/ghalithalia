@@ -18,7 +18,7 @@
 - **Python** (Pandas, GeoPandas, Matplotlib, Seaborn, Scikit-learn)
 - **SQL**
 - **QGIS** for spatial data & cartography
-- **Jupyter Notebooks**, Git & GitHub
+- **Jupyter Notebooks**, GitHub
 - Data cleaning, exploration, visualization
 - Fluent in **French**, **English**, and **Chinese**
 
