@@ -1,11 +1,11 @@
-# 👋 Hi, Nice to meet you 
+#  Hi, Nice to meet you 
 
 🎓 I’m a dual-degree student in **engineering and business**, currently studying at **EDHEC Business School** and **Université de Technologie de Compiègne (UTC)**.  
-🌆 I’m passionate about **urban planning**, **data analysis**, and **creative problem-solving** to help shape more inclusive, sustainable and enjoyable cities.
+ I’m passionate about **urban planning**, **data analysis**, and **creative problem-solving** to help shape more inclusive, sustainable and enjoyable cities.
 
 ---
 
-## 🔎 What I'm interested in:
+##  What I'm interested in:
 - Urban planning & city design 🏙️
 - Geographic Information Systems (QGIS, GeoPandas)
 - Data-driven approaches to public space, mobility & environment
