@@ -1,7 +1,7 @@
 #  Hi, Nice to meet you 
 
 🎓 I’m a dual-degree student in **engineering and business**, currently studying at **EDHEC Business School** and **Université de Technologie de Compiègne (UTC)**.  
-I love working at the intersection of **data**, **design thinking**, and real-world challenges — especially in urban planning, but I'm equally interested in applying these tools to other meaningful domains.
+I love working at the intersection of **data**, **design thinking**, and real-world challenges, especially in urban planning, but I'm equally interested in applying these tools to other meaningful domains.
 ---
 
 ##  What I'm interested in:
