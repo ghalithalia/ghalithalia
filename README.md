@@ -1,16 +1,16 @@
 #  Hi, Nice to meet you 
 
 🎓 I’m a dual-degree student in **engineering and business**, currently studying at **EDHEC Business School** and **Université de Technologie de Compiègne (UTC)**.  
- I’m passionate about **urban planning**, **data analysis**, and **creative problem-solving** to help shape more inclusive, sustainable and enjoyable cities.
-
+I love working at the intersection of **data**, **design thinking**, and real-world challenges — especially in urban planning, but I'm equally interested in applying these tools to other meaningful domains.
 ---
 
 ##  What I'm interested in:
+- Creative, visual storytelling through data and mapping
+- - Data-driven approaches to public space, mobility & environment
 - Urban planning & city design 🏙️
 - Geographic Information Systems (QGIS, GeoPandas)
-- Data-driven approaches to public space, mobility & environment
 - Walkable, bikeable cities & green infrastructure 🌿
-- Creative, visual storytelling through data and mapping
+
 
 ---
 
