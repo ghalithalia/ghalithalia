@@ -6,7 +6,7 @@ I love working at the intersection of **data**, **design thinking**, and real-wo
 
 ##  What I'm interested in:
 - Creative, visual storytelling through data and mapping
-- - Data-driven approaches to public space, mobility & environment
+- Data-driven approaches to public space, mobility & environment
 - Urban planning & city design 🏙️
 - Geographic Information Systems (QGIS, GeoPandas)
 - Walkable, bikeable cities & green infrastructure 🌿
